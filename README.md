@@ -1,1 +1,1 @@
-Follow the instructions in the workshop to complete this lab.
+Simple Counter Button Page 

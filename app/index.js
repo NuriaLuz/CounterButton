@@ -17,11 +17,12 @@ class Counter extends React.Component{
     render(){
         return(
             <div id='container'>
-            <div id='navabar'>
-            Counter.js
+
+            <div id='navbar'>
+            <h1>Let's Count!</h1>
             </div>
             
-            <div id='container'>
+            <div id='counter'>
             <h1>{this.state.count}</h1>
             <button onClick={this.increment}>Increment</button>
 
